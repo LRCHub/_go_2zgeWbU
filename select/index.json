@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "REFLECT",
+  "base_artist": "Gawr Gura",
+  "createdAt": "2025-12-18T04:54:51.871281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reflect",
+      "artist": "Frente!",
+      "has_synced": true,
+      "path": "select/01_Reflect_Frente!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reflect On Conflict",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/02_Reflect_On_Conflict_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Collect. Select. Reflect",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/03_Collect._Select._Reflect_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ao Longe o Mar (Astro's Reflect & Chill Mix)",
+      "artist": "Madredeus",
+      "has_synced": true,
+      "path": "select/04_Ao_Longe_o_Mar_(Astro's_Reflect_&_Chill_Mix)_Madredeus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reflect the Storm",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/05_Reflect_the_Storm_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reflect",
+      "artist": "Gawr Gura",
+      "has_synced": true,
+      "path": "select/06_Reflect_Gawr_Gura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reflect",
+      "artist": "Bilmuri",
+      "has_synced": true,
+      "path": "select/07_Reflect_Bilmuri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Mirrors Might Reflect",
+      "artist": "Counterparts",
+      "has_synced": false,
+      "path": "select/08_What_Mirrors_Might_Reflect_Counterparts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smokers Reflect",
+      "artist": "dEUS",
+      "has_synced": false,
+      "path": "select/09_Smokers_Reflect_dEUS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smokers Reflect",
+      "artist": "Deus",
+      "has_synced": true,
+      "path": "select/10_Smokers_Reflect_Deus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reflect",
+      "artist": "Syn Cole",
+      "has_synced": true,
+      "path": "select/11_Reflect_Syn_Cole.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reflect the Storm",
+      "artist": "Deserted Fear",
+      "has_synced": false,
+      "path": "select/12_Reflect_the_Storm_Deserted_Fear.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Moon Does Reflect Off the Shores of Forgiveness",
+      "artist": "Wicca Phase Springs Eternal feat. døves",
+      "has_synced": true,
+      "path": "select/13_The_Moon_Does_Reflect_Off_the_Shores_of_Forgiveness_Wicca_Phase_Springs_Eternal_feat._døves.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Moon Does Reflect Off the Shores of Forgiveness",
+      "artist": "Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/14_The_Moon_Does_Reflect_Off_the_Shores_of_Forgiveness_Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REFLECT",
+      "artist": "Gawr Gura",
+      "has_synced": false,
+      "path": "select/pl_01_REFLECT_Gawr_Gura.txt"
+    }
+  ]
+}
